@@ -33,6 +33,7 @@ Contains information on Netflix movies and TV shows including title, director, c
 
 ## 📸 Dashboard Preview
 ![Netflix Dashboard Preview](Screenshot/dashboard_preview.png)
+(Screenshot/dashboard_preview1.png)
 
 ---
 
