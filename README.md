@@ -3,7 +3,7 @@
 This interactive Tableau dashboard analyzes the **Netflix Titles dataset**, offering insights into the platform’s global content library.  
 It helps visualize trends in movies and TV shows across genres, release years, ratings, and countries.
 
-🔗 **View the live dashboard on Tableau Public:** [Netflix Titles Dashboard](https://public.tableau.com/views/Netflix_Titles_Dashboard/YourDashboardName)
+🔗 **View the live dashboard on Tableau Public:** [Netflix Titles Dashboard](https://public.tableau.com/app/profile/ankita.banubakode/viz/Netflix_17613964656980/Netflix?publish=yes)
 
 ---
 
@@ -33,7 +33,7 @@ Contains information on Netflix movies and TV shows including title, director, c
 
 ## 📸 Dashboard Preview
 ![Netflix Dashboard Preview](Screenshot/dashboard_preview.png)
-(Screenshot/dashboard_preview1.png)
+![Netflix Dashboard Preview](Screenshot/dashboard_preview1.png)
 
 ---
 
