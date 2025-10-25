@@ -1,43 +1,79 @@
 # 🎬 Netflix Titles Dashboard (Tableau)
 
-This interactive Tableau dashboard analyzes the **Netflix Titles dataset**, offering insights into the platform’s global content library.  
-It helps visualize trends in movies and TV shows across genres, release years, ratings, and countries.
+![Made with Tableau](https://img.shields.io/badge/Made%20With-Tableau-blue?style=for-the-badge&logo=tableau)
+![Dataset from Kaggle](https://img.shields.io/badge/Dataset-Kaggle-red?style=for-the-badge&logo=kaggle)
+![Visualization](https://img.shields.io/badge/Data-Visualization-green?style=for-the-badge&logo=databricks)
 
-🔗 **View the live dashboard on Tableau Public:** [Netflix Titles Dashboard](https://public.tableau.com/app/profile/ankita.banubakode/viz/Netflix_17613964656980/Netflix?publish=yes)
+---
+
+## 📖 Overview
+This project presents an **interactive Tableau dashboard** built using the **Netflix Titles dataset** from Kaggle.  
+It explores key patterns in Netflix’s content library, helping visualize:
+- The balance between Movies & TV Shows  
+- Global distribution of content  
+- Genre trends and audience ratings  
+- Yearly addition of titles  
+
+🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Netflix_17613964656980/Netflix?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)] 
 
 ---
 
 ## 📊 Key Insights
-- 🎞️ **Content Type Distribution:** Ratio of Movies vs. TV Shows on Netflix.
-- 🌎 **Geographical Analysis:** Top countries producing Netflix content.
-- 📅 **Release Trends:** How Netflix’s content library has evolved over the years.
-- ⭐ **Ratings Overview:** Common audience ratings for Netflix content.
-- 🎭 **Popular Genres:** Most frequently occurring genres.
+
+| 🔍 Insight Area | 💡 Description |
+|-----------------|----------------|
+| 🎞️ **Content Type** | Movies dominate Netflix’s catalog compared to TV Shows |
+| 🌎 **Country Analysis** | USA & India are among the top producers of Netflix titles |
+| 📅 **Release Trend** | Major growth in content additions post-2015 |
+| ⭐ **Ratings Distribution** | TV-MA and TV-14 are the most common ratings |
+| 🎭 **Genres** | International Movies, Dramas, and Comedies lead in volume |
 
 ---
 
 ## 🧰 Tools & Technologies
-- **Tableau Public** – For data visualization  
-- **Microsoft Excel / CSV** – Data preprocessing  
-- **GitHub** – Project hosting and documentation
+| Tool | Purpose |
+|------|----------|
+| **Tableau Public** | Data visualization & dashboard creation |
+| **Microsoft Excel / CSV** | Data cleaning and formatting |
+| **GitHub** | Project hosting and documentation |
+| **Kaggle Dataset** | Source of Netflix titles data |
 
 ---
 
-## 📂 Dataset
-Dataset used: [`netflix_titles.csv`](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-
-Source: Kaggle  
-Contains information on Netflix movies and TV shows including title, director, cast, country, release year, rating, and genre.
+## 📂 Dataset Information
+**Dataset:** [`netflix_titles.csv`](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
+**Source:** Kaggle  
+**Attributes:** Title, Director, Cast, Country, Release Year, Rating, Duration, Genre, etc.
 
 ---
 
-## 📸 Dashboard Preview
+## 🖼️ Dashboard Preview
 ![Netflix Dashboard Preview](screenshot/dashboard_preview.png)
 ![Netflix Dashboard Preview](screenshot/dashboard_preview1.png)
 
----
-
-## 👩‍💻 About the Project
-This project demonstrates how to transform raw CSV data into an insightful, interactive visualization to understand Netflix’s content strategy and diversity across regions.
+*(Screenshot of the Tableau dashboard showing content type trends, genre breakdown, and release year distribution)*
 
 ---
+
+## 🚀 Project Highlights
+- Built a **clean, interactive dashboard** in Tableau Public.  
+- Designed to highlight **patterns and trends** in Netflix’s catalog.  
+- Used **data storytelling** to provide insights on content diversity and growth.
+
+---
+
+## 💡 Future Enhancements
+- Integrate Netflix IMDb ratings for deeper analysis.  
+- Add interactive filters by director or country.  
+- Embed the dashboard in a web portfolio.
+
+---
+
+## 👩‍💻 Author
+**Ankita Banubakode**  
+📧 [banubakodeankita@gmail.com](mailto:banubakodeankita@gmail.com)  
+💼 [LinkedIn Profile](www.linkedin.com/in/ankita-banu)  
+
+---
+
+⭐ *If you like this dashboard, please give this repo a star on GitHub!*  
